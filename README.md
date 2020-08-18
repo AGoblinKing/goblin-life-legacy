@@ -12,9 +12,7 @@ You can report it on the Issues tab above.
 
 ## Command Instructions
 
-<center>
 ![](./img/instructions_command.gif)
-</center>
 
 - click a faction
 - click access on the target
